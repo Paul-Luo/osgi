@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mvn-hello-consumer/mvn-hello-consumer.iml" filepath="$PROJECT_DIR$/mvn-hello-consumer/mvn-hello-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvn-hello-provider/mvn-hello-provider.iml" filepath="$PROJECT_DIR$/mvn-hello-provider/mvn-hello-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osgi.iml" filepath="$PROJECT_DIR$/osgi.iml" />
+    </modules>
+  </component>
+</project>
+
